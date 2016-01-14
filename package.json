@@ -1,6 +1,6 @@
 {
   "name": "es6-seed-module",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Simplist seed to create a fully ES6 module",
   "main": "./lib",
   "scripts": {
