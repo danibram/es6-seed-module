@@ -1,5 +1,7 @@
 # ES6 Seed Module
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/danibram/es6-seed-module.svg)](https://greenkeeper.io/)
+
 [![Dependency Status](https://david-dm.org/danibram/es6-seed-module.svg)](https://david-dm.org/danibram/es6-seed-module)
 
 
